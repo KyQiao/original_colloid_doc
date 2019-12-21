@@ -1,0 +1,14 @@
+# Introduction
+
+基于王峰在2012年的code。在此基础之上修改 bug 以及编写相关文档。
+
+此文档主要记录相关算法,方便debug以及日后将库迁往`Python`。
+
+每个`Markdown`文件都对应了`source`中的c++文件，在每一个`Markdown`文件下编写相关内容。
+
+
+
+
+
+
+
